@@ -5,6 +5,7 @@
 
 ## VS-Code Extensions
 - [All In one PHP Support Extension Package](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 ## Description
 This repository contains the source code for a simple PHP application that connects to a MySQL database. The application allows users to create, read, update, and delete users from a database. (CRUD)
