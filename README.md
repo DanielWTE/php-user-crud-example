@@ -3,6 +3,9 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
+## VS-Code Extensions
+- [All In one PHP Support Extension Package](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
+
 ## Description
 This repository contains the source code for a simple PHP application that connects to a MySQL database. The application allows users to create, read, update, and delete users from a database. (CRUD)
 
